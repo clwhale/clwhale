@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jungwoo%Lee%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=24&height=300&section=header&text=I'm%20Jungwoo%20Lee&fontSize=70&fontAlign=60&fontAlignY=80&desc=Hello&descSize=90&descAlign=20&descAlignY=50)
 
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=22&height=300&section=header&text=I'm%20Jungwoo%20Lee&fontSize=70&fontAlign=60&fontAlignY=65&desc=Hello&descSize=90&descAlign=20&descAlignY=35) -->
 ### Hi there 👋
 
 <!-- 
